@@ -17,7 +17,7 @@ This work is licensed under a
 
 ## Our Vision
 
-Inspired by epic fantasy works like "Lord of the Rings," "Lord of the Flies," and "Game of Thrones," we seek to create a rich, multifaceted narrative world. However, we diverge from these predecessors in a crucial way: instead of presenting a singular vision, we invite a tapestry of perspectives, mythologies, and cultural insights.
+Inspired by epic fantasy works , we seek to create a rich, multifaceted narrative world. However, we diverge from these predecessors in a crucial way: instead of presenting a singular vision, we invite a tapestry of perspectives, mythologies, and cultural insights.
 
 The main branch of this novel is rooted deeply in Hindu and Buddhist philosophy and mythology, exploring themes of timelessness, spiritual awakening, and the fluid nature of reality through the lens of magical realism. However, this is just the beginning.
 
