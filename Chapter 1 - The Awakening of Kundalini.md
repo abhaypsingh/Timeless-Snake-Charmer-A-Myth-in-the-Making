@@ -1,6 +1,6 @@
 # **The Awakening of Kundalini**
+![Alt text](https://github.com/abhaypsingh/Timeless-Snake-Charmer-A-Myth-in-the-Making/blob/main/images/Snake%20Dance.jpg)
 
-![Alt text](https://github.com/abhaypsingh/Timeless-Snake-Charmer-A-Myth-in-the-Making/blob/main/images/Snake%20Charmer.png)
 
 In those days, when the world was still young and the boundaries between myth and reality as porous as the walls of my ancestral hut, I first encountered the creature now known as snake. It was a time when the night sky whispered ancient secrets, and the river sang lullabies to the drowsy earth.
 
