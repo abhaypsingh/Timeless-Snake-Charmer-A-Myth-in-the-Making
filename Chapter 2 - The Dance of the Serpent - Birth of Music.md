@@ -1,4 +1,4 @@
-![Alt text](https://github.com/abhaypsingh/Timeless-Snake-Charmer-A-Myth-in-the-Making/blob/main/images/Snake%20Dance.jpg)
+![Alt text](https://github.com/abhaypsingh/Timeless-Snake-Charmer-A-Myth-in-the-Making/blob/main/images/Snake%20Charmer.png)
 
 As my companion and I embraced our new life, infused with the foreign knowledge bestowed upon us by the serpents, we found ourselves traversing a path both wondrous and treacherous. The whispers of the snakes still echoed in our ears, a constant reminder of the hidden truths we had uncovered.
 
